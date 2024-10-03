@@ -1,13 +1,3 @@
 {
-  "users": [
-    {
-      "id": "34e9",
-      "name": "ravi",
-      "email": "ramu@gmail.com",
-      "phone": "78899222",
-      "address": {
-        "city": "goa"
-      }
-    }
-  ]
+  "users": []
 }

@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-image: url('./assets/bg-2.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
